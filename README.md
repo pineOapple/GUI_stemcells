@@ -1,5 +1,10 @@
 # GUI_stemcells
-A minimal and universal GUI-template, which can be adapted to other applications
+Author: pineOapple
+Date: 10/27/2018
+
+
+
+A minimal and universal GUI-template, which can be adapted to other applications.
 
 
 
